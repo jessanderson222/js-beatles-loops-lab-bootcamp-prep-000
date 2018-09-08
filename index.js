@@ -32,6 +32,6 @@ function iLoveTheBeatles(n) {
     array.push(`I love the Beatles!`)
   }
   while (
-    (number < 15)
+    (number < 7)
   )
 }
