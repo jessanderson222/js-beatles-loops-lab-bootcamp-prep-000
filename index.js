@@ -20,7 +20,7 @@ function johnLennonFacts(facts) {
   var arr = []
   var n = 0
   while (n < facts.length) {
-    console.log(arr[n] + `!!!`)
+    arr.push(arr[n] + `!!!`)
     n++;
     }
     return arr
