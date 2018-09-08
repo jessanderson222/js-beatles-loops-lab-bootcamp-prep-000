@@ -31,7 +31,7 @@ function iLoveTheBeatles(n) {
   do {
     array.push(`I love the Beatles!`)
   }
-  while {
+  while (
     (number < 15)
-  }
+  )
 }
